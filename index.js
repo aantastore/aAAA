@@ -539,7 +539,7 @@ break
   
   case 'owner':
   case 'author':
-    number = '6282223014661@s.whatsapp.net'
+    number = '6281262411188@s.whatsapp.net'
     capt = `Nomor : @${number.split('@')[0]}\n`
     capt += 'Instagram : https://www.instagram.com/mrf.zvx'
     await client.fakeLink(from, capt, thumb, 'Click in here', 'https://www.instagram.com/mrf.zvx', mek)
